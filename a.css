@@ -1,0 +1,40 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box 0px;
+}
+
+.bg {
+    width: 1200px;
+    height: 614px;
+    background: yellow;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 70px;
+    padding: 78px 86px;
+    flex-wrap: wrap;
+    gap: 114px;
+}
+
+.box {
+    width: 200px;
+    height: 200px;
+    border-radius: 50px;
+    background: #240404;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.box2 {
+    background: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    height: 78px;
+    width: 133px;
+
+}
